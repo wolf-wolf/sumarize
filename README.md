@@ -12,15 +12,12 @@ record some useful tools
       <th>
         优缺点
       </th>
-      <th>
-        地址
-      </th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
-        Echarts
+        <a href="http://echarts.baidu.com/">Echarts</a>
       </td>
       <td>
         很不错的图表库，由百度团队开发，效果很炫
@@ -28,14 +25,11 @@ record some useful tools
       <td>
         暂无
       </td>
-      <td>
-        http://echarts.baidu.com/
-      </td>
     </tr>
     
     <tr>
       <td>
-        fullPage.js
+        <a href="http://alvarotrigo.com/fullPage/">fullPage.js</a>
       </td>
       <td>
         全屏幕单页面滚动效果的库，功能齐全
@@ -43,23 +37,17 @@ record some useful tools
       <td>
         暂无
       </td>
-      <td>
-        http://alvarotrigo.com/fullPage/
-      </td>
     </tr>
     
     <tr>
       <td>
-        UI.Sortable directive
+        <a href="https://github.com/angular-ui/ui-sortable">UI.Sortable directive</a>
       </td>
       <td>
         通过拖拽排序的指令
       </td>
       <td>
         暂无
-      </td>
-      <td>
-        https://github.com/angular-ui/ui-sortable
       </td>
     </tr>
   </tbody>
