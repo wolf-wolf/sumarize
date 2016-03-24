@@ -60,16 +60,10 @@ record some useful tools
       <th>
         问题
       </th>
-      <th>
-        解决方案
-      </th>
     </tr>
     <tr>
       <td>
-        如何不输入sudo进行全局安装
-      </td>
-      <td>
-        https://github.com/sindresorhus/guides/blob/master/npm-global-without-sudo.md
+        <a href="https://github.com/sindresorhus/guides/blob/master/npm-global-without-sudo.md">如何不输入sudo进行全局安装</a>
       </td>
     </tr>
   </tbody>
