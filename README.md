@@ -15,6 +15,19 @@ record some useful tools
     </tr>
   </thead>
   <tbody>
+  
+    <tr>
+      <td>
+        <a href="http://gregpike.net/demos/angular-local-storage/demo/demo.html">Angular Local Storage</a>
+      </td>
+      <td>
+        angularJS的本地存储module
+      </td>
+      <td>
+        暂无
+      </td>
+    </tr>
+    
     <tr>
       <td>
         <a href="http://echarts.baidu.com/">Echarts</a>
