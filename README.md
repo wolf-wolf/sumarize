@@ -63,6 +63,18 @@ record some useful tools
         暂无
       </td>
     </tr>
+    
+    <tr>
+      <td>
+        <a href="https://github.com/lampaa/com.lampa.startapp">cordova plugin startapp</a>
+      </td>
+      <td>
+        cordova插件，在H5混合app中打开其他app
+      </td>
+      <td>
+        暂无
+      </td>
+    </tr>
   </tbody>
 </table>
     
