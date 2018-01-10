@@ -15,7 +15,6 @@ record some useful tools
     </tr>
   </thead>
   <tbody>
-  
     <tr>
       <td>
         <a href="http://gregpike.net/demos/angular-local-storage/demo/demo.html">Angular Local Storage</a>
@@ -27,7 +26,6 @@ record some useful tools
         暂无
       </td>
     </tr>
-    
     <tr>
       <td>
         <a href="http://echarts.baidu.com/">Echarts</a>
@@ -39,7 +37,6 @@ record some useful tools
         暂无
       </td>
     </tr>
-    
     <tr>
       <td>
         <a href="http://alvarotrigo.com/fullPage/">fullPage.js</a>
@@ -50,8 +47,7 @@ record some useful tools
       <td>
         暂无
       </td>
-    </tr>
-    
+    </tr>  
     <tr>
       <td>
         <a href="https://github.com/angular-ui/ui-sortable">UI.Sortable directive</a>
@@ -62,8 +58,7 @@ record some useful tools
       <td>
         暂无
       </td>
-    </tr>
-    
+    </tr>  
     <tr>
       <td>
         <a href="https://github.com/lampaa/com.lampa.startapp">cordova plugin startapp</a>
